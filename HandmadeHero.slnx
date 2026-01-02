@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Code/HandmadeHero.vcxproj" Id="82fbfddb-84de-4f0d-84c2-61cc432cbc18" />
+</Solution>
